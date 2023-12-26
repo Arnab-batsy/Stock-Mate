@@ -84,3 +84,30 @@ input.home-input{
   position:relative;
   color: antiquewhite;
 }
+.pro-details{
+  background-color: #D9D9D9;
+  width: 250px;
+  min-height: 30px;
+  margin:20px;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  padding: 0.1px;
+}
+p.user-det{
+  font-family: "Quicksand";
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+}
+.user-div{
+  background-color: whitesmoke;
+  width: 300px;
+  min-height: 270px;
+  padding:10px;
+  align-items: center;
+}
+.user-update-input{
+  width:200px;
+  height: 20px; 
+}
